@@ -548,7 +548,10 @@ Sotto questa soglia di altezza infatti il testo non si legge benissimo, questa p
 	}
 	
 }
-/*Adattamento mobile: Galaxy S5*/
+/*Adattamento mobile:
+Le misure sono prese sul modello Galaxy S5, tuttavia la responsività è garantita anche alla maggior parte dei modelli
+proposti da Chrome
+*/
 @media(max-width: 360px){
 	header{
         height: 280px;
